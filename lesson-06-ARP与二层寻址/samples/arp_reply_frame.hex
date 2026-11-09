@@ -1,0 +1,4 @@
+# 单播 ARP 应答：192.168.1.1 是 aa:bb:cc:dd:ee:ff
+00 11 22 33 44 55 aa bb cc dd ee ff 08 06
+00 01 08 00 06 04 00 02 aa bb cc dd ee ff
+c0 a8 01 01 00 11 22 33 44 55 c0 a8 01 64

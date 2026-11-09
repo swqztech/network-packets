@@ -1,0 +1,3 @@
+# ICMP Echo Reply: type=0, code=0, 同 id/seq/data
+00 00 0e fa 12 34 00 01
+70 69 6e 67
